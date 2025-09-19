@@ -1,5 +1,5 @@
 {
-  "name": "@nx-shared/seamless-connect",
-  "version": "0.0.1",
-  "private": true
+    "name": "@nx-shared/seamless-connect",
+    "version": "0.0.1",
+    "private": true
 }

@@ -16,6 +16,14 @@
     "skipLibCheck": true,
     "strict": true,
     "target": "es2022",
-    "customConditions": ["@nx-shared/source"]
+    "customConditions": ["@nx-shared/source"],
+    "paths": {
+      "@nx-shared/seamless-connect-feature": [
+        "libs/seamless-connect-feature/src/index.ts"
+      ],
+      "@nx-shared/tax-analyzer-feature": [
+        "libs/tax-analyzer-feature/src/index.ts"
+      ]
+    }
   }
 }

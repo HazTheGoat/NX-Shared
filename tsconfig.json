@@ -4,16 +4,7 @@
   "files": [],
   "references": [
     {
-      "path": "./apps/NX Shared"
-    },
-    {
-      "path": "./apps/seamless-connect-e2e"
-    },
-    {
       "path": "./apps/seamless-connect"
-    },
-    {
-      "path": "./apps/tax-analyzer-e2e"
     },
     {
       "path": "./apps/tax-analyzer"

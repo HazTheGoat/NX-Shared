@@ -3,6 +3,9 @@
   "include": [],
   "references": [
     {
+      "path": "../../libs/seamless-connect-feature"
+    },
+    {
       "path": "./tsconfig.app.json"
     }
   ],

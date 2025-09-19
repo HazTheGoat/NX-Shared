@@ -3,6 +3,9 @@
   "include": [],
   "references": [
     {
+      "path": "../../libs/tax-analyzer-feature"
+    },
+    {
       "path": "./tsconfig.app.json"
     }
   ],

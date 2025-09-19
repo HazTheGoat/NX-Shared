@@ -1,11 +1,9 @@
-// Uncomment this line to use CSS modules
-// import styles from './app.module.scss';
-import NxWelcome from './nx-welcome';
+import { NxSharedSeamlessConnectFeature } from '@nx-shared/seamless-connect-feature';
 
 export function App() {
   return (
     <div>
-      <NxWelcome title="@nx-shared/seamless-connect" />
+      <NxSharedSeamlessConnectFeature />
     </div>
   );
 }
